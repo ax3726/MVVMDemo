@@ -24,7 +24,7 @@
             android:id="@+id/btn_start"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="开始请求网络"
+            android:text="开始请求网络111"
             binding:onClickCommand="@{viewModel.netWorkClick}" />
 
         <com.lcodecore.tkrefreshlayout.TwinklingRefreshLayout
